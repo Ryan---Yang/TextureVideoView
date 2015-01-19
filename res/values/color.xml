@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#7f000000</color>
+    <color name = "btn_hint_text">#1b1b1b</color>
+</resources>

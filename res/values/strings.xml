@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TextureVideoView</string>
+    <string name="action_settings">Settings</string>
+     <string name="tv_save_screen_image_successful">save the screen shot successful</string>
+      <string name="tv_screen_shot">PrintScreen</string>
+      <string name="tv_exit">Exit</string>
+</resources>
